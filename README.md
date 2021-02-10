@@ -48,3 +48,12 @@ def fun():
 `
 fun()
 `
+## task
+``` 
+def fun():
+   print("hello world")
+```
+## Function calling
+` 
+fun()
+`
